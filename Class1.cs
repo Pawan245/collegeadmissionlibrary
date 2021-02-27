@@ -22017,12 +22017,9 @@ namespace Registration_process
                 string maill = "it@one9.online";
 
                 //string maill = "support@iamevent.in";
-                string pas = "Awanish@199";
+                string pas = "";
 
-                // string pas = "iamevent";
-                //   string maill = "missstarbihar2016@gmail.com";
-                //  string pas = "misspawan9090";
-
+                
                 MailMessage mail = new MailMessage("it@one9.online", txtemailid);
                 //mail.To.Add("pawank467@gmail.com");
                 // mail.To.Add("iamevent16@gmail.com");
